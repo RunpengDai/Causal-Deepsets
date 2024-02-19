@@ -74,7 +74,7 @@ One of the contribution of the paper is developing an easy-to-use ride-sharing s
 The ride-sharing simulation environment is implemented in `ride_sharing_simu.py`. To visualize the simulation environment, you can run `visuallize_policy.py` by running the following command in your terminal:
 
 ```bash
-python visuallize_policy.py --l 15
+python visualize_policy.py
 ```
 
 by changing the parameter `l` to visualize the ride-sharing process with different number of grids. To visualize different policies, you can modify TOP in `visuallize_policy.py`.
