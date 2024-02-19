@@ -7,9 +7,10 @@ The code consists of two parts. The code for Nondynamic Simulation, as described
 ## Installation
 
 * First use `git clone` command to clone our repository to your local machine.
-* Then, you should install the required packages by running the following commands in your terminal:
+* Then, you should enter the directory and install the required packages by running the following commands in your terminal:
 
 ```
+cd Causal-Deepsets
 conda create -n PIE python=3.9
 conda activate PIE
 pip install -r requirements.txt
